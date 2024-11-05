@@ -84,7 +84,7 @@ This is where we include some basic lines of codes or queries and some of the DA
 
 - Total number of Attrition count
 
-  ![Screenshot (149)](https://github.com/user-attachments/assets/dc4110a5-805f-443c-946a-19538ab702f4)
+![Screenshot (149)](https://github.com/user-attachments/assets/dc4110a5-805f-443c-946a-19538ab702f4)
 
 - Average Age
 
