@@ -129,8 +129,6 @@ This is where we include some basic lines of codes or queries and some of the DA
 ![Screenshot (166)](https://github.com/user-attachments/assets/af8f6e83-65c9-47e8-95f7-fdb578e076c9)
 
 
-
-
 ## Inferences
 
 Overall Analysis
