@@ -124,9 +124,11 @@ This is where we include some basic lines of codes or queries and some of the DA
 
 ### Power BI Visualization
 
+![Screenshot (167)](https://github.com/user-attachments/assets/6f1884d3-5448-48ce-b09c-aa8ac7a4fe3c)
+
 ![Screenshot (166)](https://github.com/user-attachments/assets/af8f6e83-65c9-47e8-95f7-fdb578e076c9)
 
-![Screenshot (167)](https://github.com/user-attachments/assets/6f1884d3-5448-48ce-b09c-aa8ac7a4fe3c)
+
 
 
 ## Inferences
